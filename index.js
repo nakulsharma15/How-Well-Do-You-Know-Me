@@ -27,7 +27,7 @@ var questions = [{
 },
 {
   question: "Who is my favourite superhero? ",
-  answer: "IronMan"
+  answer: "Iron Man"
 },
 {
   question: "What is my favourite sport? ",
